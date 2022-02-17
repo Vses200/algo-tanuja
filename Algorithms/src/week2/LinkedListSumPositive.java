@@ -70,7 +70,7 @@ public class LinkedListSumPositive{
 	 static List sort(List list) {
 		 
 		 List mainList = list;
-			List temp =list;
+			List temp ;
 			
 			while(mainList.next!=null) {
 				temp = mainList.next;
