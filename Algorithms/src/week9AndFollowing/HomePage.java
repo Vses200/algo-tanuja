@@ -374,7 +374,7 @@ public class HomePage extends JFrame {
 		panel = new JPanel();
 		panel.setVisible(false);
 		panel.setBackground(new Color(0, 128, 128));
-		panel.setBounds(290, 336, 552, 143);
+		panel.setBounds(300, 233, 552, 143);
 		contentPane.add(panel);
 		panel.setLayout(null);
 		

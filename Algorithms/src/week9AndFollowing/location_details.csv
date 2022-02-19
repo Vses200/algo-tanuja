@@ -1,0 +1,14 @@
+kathmandu,170,chitwan
+chitwan,170,kathmandu
+kathmandu,110,pokhara
+pokhara,110,kathmandu
+pokhara,50,bhaktapur
+bhaktapur,50,pokhara
+bhaktapur,300,jhapa
+jhapa,300,bhaktapur
+jhapa,100,chitwan
+chitwan,100,jhapa
+bhaktapur,31,kathmandu
+kathmandu,31,bhaktapur
+mustang,15,manang
+manang,15,mustang
